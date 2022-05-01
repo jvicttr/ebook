@@ -48,7 +48,6 @@ header {
         padding: 0%;
     }
 
-
     .p2{
         font-size: medium;
         text-align: center;
@@ -67,7 +66,7 @@ header {
 
 section {
     padding: 20px;
-    background-image: url(assets/fundo3.png);
+    background-image: url(assets/fundo3.jpg);
     background-size: cover; 
     overflow: hidden;
 }
