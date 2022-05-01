@@ -44,18 +44,18 @@ header {
     
     h3{
         font-size: medium;
-        text-align: justify;
+        text-align: center;
         padding: 0%;
     }
 
 
     .p2{
         font-size: medium;
-        text-align: justify;
+        text-align: center;
     }
     .p3{
         font-size: medium;
-        text-align: justify; 
+        text-align: center; 
     }
 
 }
@@ -67,14 +67,14 @@ header {
 
 section {
     padding: 20px;
-    background-image: url(assets/fundo2.jpg);
+    background-image: url(assets/fundo3.png);
     background-size: cover; 
     overflow: hidden;
 }
 
 .formContainer {
     max-width: 230px;
-    background-color: rgb(41, 39, 39);
+    background-color: rgb(224, 224, 224);
     padding: 20px;
     float: right;
 }
@@ -113,17 +113,17 @@ select {
 
 .title2 {
     font-size: 16px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
 .p1 {
     text-align: left;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 footer {
-    background-color: rgb(44, 15, 15);
+    background-color: rgb(17, 17, 17);
     padding: 40px;
     text-align: center;
     /*#ff0909bb*/
@@ -138,7 +138,7 @@ footer {
 .description {
     display: inline-block;
     text-align: left;
-    color: white;
+    color: #FFDE02;
     max-width: 80%;
 }
 
@@ -150,7 +150,7 @@ footer {
 .description h3 {
     font-size: 24px;
     text-align: center;
-    color: white;
+    color: #FFDE02;
 }
 
 ul{
@@ -180,7 +180,7 @@ ul{
 
 a{
     text-decoration: none;
-    color: white;
+    color: #FFDE02;
 }
 
 footer li {
@@ -188,8 +188,4 @@ footer li {
     float: left;
     margin: 25px;
 
-}
-
-a:visited{
-    color: #FFDE00;
 }
